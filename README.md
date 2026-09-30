@@ -3,8 +3,6 @@
 
 A simple 2D racing game developed in Java using Swing. The player races against an AI-controlled opponent around a track over three laps.
 
-![Gameplay Screenshot](screenshots/game-screenshot.png)
-
 ## Features
 
 - Player-controlled racing car
@@ -49,15 +47,11 @@ Java must be installed on the computer.
 
 Compile the program:
 
-```bash
 javac RacingGame.java
-```
 
 Run the game:
 
-```bash
 java RacingGame
-```
 
 ## Project Purpose
 
